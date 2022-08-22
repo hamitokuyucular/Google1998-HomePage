@@ -1,0 +1,22 @@
+#logo {
+    text-align: center;
+}
+
+#body {
+    text-align: center;
+
+}
+
+#searchBar {
+    margin: 0px;
+    padding: 1px;
+    width: 295.2px;
+    height: 16px;
+}
+
+table {
+    position: relative;
+    margin: auto;
+    background-color: rgb(238, 238, 238);
+    width: 1364.8px;
+}
